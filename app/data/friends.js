@@ -6,27 +6,27 @@ var friends = [
     },
     {
         name: "Olivia Wilde",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi_ntDjjLziAhXjRd8KHZZwADoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm1312575%2F&psig=AOvVaw0xpJeXf2BZkMTWCzHDyu9A&ust=1559059872325491",
+        photo: "http://www.gstatic.com/tv/thumb/persons/310071/310071_v9_ba.jpg",
         scores: [3, 1, 4, 2, 1, 4, 2, 4, 4, 2]
     },
     {
         name: "Liam Hemsworth",
-        photo: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa4%2FLiam_Hemsworth_June_2016.jpg%2F220px-Liam_Hemsworth_June_2016.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLiam_Hemsworth&docid=njSDYCnZN3cC-M&tbnid=_Fy2tDS2eUEGHM%3A&vet=10ahUKEwiN8PG4jbziAhUqTt8KHa86BrgQMwh5KAIwAg..i&w=220&h=336&bih=649&biw=1280&q=liam%20hemsworth&ved=0ahUKEwiN8PG4jbziAhUqTt8KHa86BrgQMwh5KAIwAg&iact=mrc&uact=8",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Liam_Hemsworth_June_2016.jpg/220px-Liam_Hemsworth_June_2016.jpg",
         scores: [1, 3, 5, 3, 5, 2, 1, 4, 4, 3]
     },
     {
         name: "Catherine Zeta Jones",
-        photo: "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D373457529889881&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FCatherineZetaJones%2F&docid=fI1GhgCfudCCRM&tbnid=sel9c01vYnbigM%3A&vet=10ahUKEwipvPnRjrziAhVHU98KHcFvC-sQMwiGASgLMAs..i&w=564&h=766&bih=649&biw=1280&q=catherine%20zeta%20jones&ved=0ahUKEwipvPnRjrziAhVHU98KHcFvC-sQMwiGASgLMAs&iact=mrc&uact=8",
+        photo: "https://media2.s-nbcnews.com/j/newscms/2018_38/1368247/catherine-zeta-jones-house-today-main-180917_22683d468e651a0c50973b2189cc968c.fit-760w.JPG",
         scores: [3, 1, 4, 2, 1, 4, 2, 4, 4, 2]
     },
     {
         name: "Lena Headey",
-        photo: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMzIwMjIwNjg0M15BMl5BanBnXkFtZTgwOTI3MDEzMDE%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0372176%2F&docid=9ECRAaDo5-EjSM&tbnid=BROUqYwXZXN53M%3A&vet=10ahUKEwjrt76LjrziAhUDWN8KHW2BB_0QMwh-KAUwBQ..i&w=1568&h=2048&bih=649&biw=1280&q=lena%20headey&ved=0ahUKEwjrt76LjrziAhUDWN8KHW2BB_0QMwh-KAUwBQ&iact=mrc&uact=8",
+        photo: "http://www.gstatic.com/tv/thumb/persons/73830/73830_v9_ba.jpg",
         scores: [3, 1, 2, 2, 1, 1, 5, 1, 1, 2]
     },
     {
-        name: "Jonathan Rhys Meyres",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjb4LuYj7ziAhWyiOAKHbLsBtUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.upi.com%2FEntertainment_News%2FTV%2F2013%2F09%2F16%2FJonathan-Rhys-Meyers-doesnt-believe-Star-Wars-buzz%2F47331379342487%2F&psig=AOvVaw3CgU91cOSJxETrd0nKUXha&ust=1559060479020715",
+        name: "Jonathan Rhys Meyers",
+        photo: "https://cdn1.thr.com/sites/default/files/imagecache/NFE_portrait/2012/07/jonathan_rhys_meyers_portrait_a_p.jpg",
         scores: [5, 1, 5, 1, 4, 3, 4, 1, 1, 2]
     },
 ];

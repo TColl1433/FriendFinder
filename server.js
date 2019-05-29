@@ -15,9 +15,17 @@ var PORT = process.env.PORT || 3000;
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.text());
+
+
 // parse various different custom JSON types as JSON
-// app.use(bodyParser.json({ type: 'application/*+json' }))
+app.use(bodyParser.json({ type: 'application/*+json' }))
+
+
 app.use(bodyParser.json({ type: 'application/vnd.api+json' }));
+
+// Sets up the Express app to handle data parsing
+// app.use(express.urlencoded({ extended: true }));
+// app.use(express.json());
 
 app.use(express.static("app/public"));
 

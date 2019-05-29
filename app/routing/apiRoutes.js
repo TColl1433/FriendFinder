@@ -38,7 +38,7 @@ module.exports = function (app) {
         var userScores = userData.scores;
 
         var b = userScores.map(function (item) {
-            return parseInst(item, 10);
+            return parseInt(item, 10);
         })
         userData = {
             name: req.body.name,
@@ -82,7 +82,7 @@ module.exports = function (app) {
 
     });
 
-   
+
 
 
 };
