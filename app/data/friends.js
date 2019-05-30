@@ -21,7 +21,7 @@ var friends = [
     },
     {
         name: "Lena Headey",
-        photo: "http://www.gstatic.com/tv/thumb/persons/73830/73830_v9_ba.jpg",
+        photo: "https://www.mercurynews.com/wp-content/uploads/2019/05/BNG-L-GOTS8E5-051827.jpg",
         scores: [3, 1, 2, 2, 1, 1, 5, 1, 1, 2]
     },
     {
